@@ -1,1 +1,1 @@
-# Klasifikasi-Penyakit-Muka
+# Facia Skin Disease Detection
